@@ -2,7 +2,7 @@ function MyForm() {
     return (
         <form>
             <label>
-                Enter your name:
+                Enter your name: junujunu
                 <input type = "text" />
             </label>
         </form>
